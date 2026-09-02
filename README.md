@@ -8,3 +8,7 @@
 
 - Full name: Jhenny Lou Rubi
 - Email: jhennylour@gmail.com
+## Member 1
+
+- Full name: James Justin Flor
+- Email: florjj@sic.edu.ph
